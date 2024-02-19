@@ -6,8 +6,3 @@
 - 📚 Actively exploring the intersection of biology, computer science, and data analysis
 - 🌟 Let's collaborate on projects that advance our understanding of life through data-driven approaches
 - 📫 How to reach me on E-mail anamf2727@gmail.com
-
-<!---
-ItsFatimaAnam/ItsFatimaAnam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
