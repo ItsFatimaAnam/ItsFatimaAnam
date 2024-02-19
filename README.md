@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Anam Fatima
+- 👋 Hi, I’m @Anam-Fatima
 - 🔬 Bioinformatics Enthusiast | Computational Biology Student | Researcher
 - 👀 Currently delving into specific areas of bioinformatics network pharmacology, genomics, proteomics, structural bioinformatics
 - 🌱 Passionate about leveraging computational tools to decipher complex biological data
